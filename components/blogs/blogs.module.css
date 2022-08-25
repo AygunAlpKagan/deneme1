@@ -1,0 +1,4 @@
+.blogs li {
+  padding: 32px;
+  @apply rounded-lg hover:shadow-lg hover:bg-white cursor-pointer;
+}
